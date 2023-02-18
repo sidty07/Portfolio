@@ -824,3 +824,20 @@ z-index: 5;
 .sem{
   margin-left: 100px;
 }
+  .pall{
+display: block;
+margin: auto;
+}
+.pall2{
+  display: block;
+}
+.p1{
+  margin: auto;
+  margin-bottom: 20px;
+}
+.p2{
+
+margin: auto;
+margin-bottom: 20px;
+}
+}
