@@ -369,16 +369,13 @@ background-color: #00000063;
 
 .sem:hover{
   background-color:white;
-  padding:30px 60px 30px 60px ;
+
   border-radius:46px;
   text-decoration:none;
   font-family: sans-serif;
   font-size:24px;
   color: black;
   position: absolute;
-
-  margin-top: 220px;
-  margin-left:203px;
 }
 /*contact*/
 
