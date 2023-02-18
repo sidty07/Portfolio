@@ -794,6 +794,7 @@ z-index: 5;
 z-index: 5;
 }
 /* pall */
+
 @media (max-width:1300px) {
 .righthero img{
   width: 400px;
