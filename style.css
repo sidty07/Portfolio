@@ -794,3 +794,35 @@ z-index: 5;
 z-index: 5;
 }
 /* pall */
+@media (max-width:1300px) {
+.righthero img{
+  width: 400px;
+  margin-top: 20%;
+}
+.fashionpo{
+  width:180px;
+}
+.otherpo{
+  width:180px;
+  font-size:10px;
+}
+
+.otherpo h3{
+  padding-right: 18px;
+  padding-left: 24px;
+  padding-top: 0px;
+}
+.fashionpo h3{
+  padding-right: 18px;
+  padding-left: 18px;
+  padding-top: 0px;
+}
+.otherpo img{
+  width: 150px;
+}
+.fashionpo img{
+  width: 120px;
+  margin-left: 30px;
+}
+
+}
