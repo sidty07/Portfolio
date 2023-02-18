@@ -229,8 +229,7 @@ border-radius: 370px;
 }
 
 .otherpo:hover{
-  width: 291px;;
-  height: 584px;
+  
   background-color:rgb(175 166 179 / 37%) ;
   margin: 33px 16.5px 33px 0px;
   border-radius: 46px;
@@ -252,8 +251,7 @@ background-color: #00000063;
  padding: 20px 0px;
 }
 .fashionpo:hover{
-  width: 291px;;
-  height: 584px;
+ 
   background-color:rgb(175 166 179 / 37%) ;
   margin: 33px 16.5px 33px 0px;
   border-radius: 46px;
