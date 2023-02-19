@@ -803,8 +803,8 @@ z-index: 5;
 
 .form form{
 justify-content:center;
-margin:50px 450px;
-line-height: 100px;
+margin:10px 450px;
+line-height: 85px;
 align-items: center;
 }
 .form input{
