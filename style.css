@@ -309,7 +309,9 @@ background-color: #00000063;
   margin-top: 185px;
   line-height: 40px;
 }
-
+.movecontact img {
+    margin: 0 19px;
+}
 .movecontact p{
   font-family: sans-serif;
   color: white;
