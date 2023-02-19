@@ -792,6 +792,65 @@ z-index: 5;
 }
 /* pall */
 
+/* send message */
+.form{
+  font-family: sans-serif;
+  color: white;
+  height:820px;
+  text-align: left;
+
+}
+
+.form form{
+justify-content:center;
+margin:50px 450px;
+line-height: 100px;
+align-items: center;
+}
+.form input{
+
+  border-radius: 20px;
+  height: 30px;
+  width: 580px;
+  padding: 5px 5px;
+  background-color: #fffffF80;
+  border: 2px solid white;
+  backdrop-filter: blur(10px);
+  color: white;
+  font-family: sans-serif;
+}
+.form textarea{
+    width: 580px;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #fffffF80;
+  border: 2px solid white;
+  backdrop-filter: blur(10px);
+  color: white;
+  font-family: sans-serif;
+
+}
+#my-form-button{
+  background-color: #531d6c;
+  padding: 20px 100px;
+  border-radius: 30px;
+  color: white;
+  border: 2px solid white;
+margin: 0px 180px;
+    transition: background-color 0.5s ease-out  50ms;
+    cursor: pointer;
+}
+#my-form-button:hover{
+    background-color: white;
+    color: black;
+}
+
+#my-form-status{
+text-align: center;
+background-color: #ffffff25;
+border-radius: 10px;
+}
+/* send message */
 @media (max-width:1300px) {
 .righthero img{
   width: 400px;
@@ -841,5 +900,12 @@ margin: auto;
 
 margin: auto;
 margin-bottom: 20px;
+}
+  .form form{
+margin:100px 20%;
+line-height: 50px;
+align-items: center;
+position: absolute;
+top:5%;
 }
 }
